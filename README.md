@@ -1,6 +1,6 @@
 ![ClaimVanage Logo](ClaimVantageLogo300.png)
 
-# Welcome!
+# Welcome
 
 Our open source repositories are:
 
