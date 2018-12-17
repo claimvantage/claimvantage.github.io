@@ -1,4 +1,4 @@
-![ClaimVantage Logo](ClaimVantageLogoSalesforce.png =200x)
+<img src="ClaimVantageLogoSalesforce.png" alt="drawing" width="200"/>
 
 # Welcome!
 
