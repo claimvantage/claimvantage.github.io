@@ -1,6 +1,6 @@
-# Welcome!
-
 ![ClaimVantage Logo](ClaimVantageLogoSalesforce.png)
+
+# Welcome!
 
 The open source repositories are:
 
