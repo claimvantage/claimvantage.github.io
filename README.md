@@ -1,4 +1,4 @@
-![ClaimVanatges Logo](ClaimVantageLogoSalesforce.png)
+![ClaimVanage Logo](ClaimVantageLogo300.png)
 
 # Welcome!
 
