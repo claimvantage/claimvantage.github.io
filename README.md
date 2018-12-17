@@ -1,4 +1,4 @@
-<img src="ClaimVantageLogoSalesforce.png" alt="ClaimVantage Logo" style="width: 300px; left: -100px;"/>
+<img src="ClaimVantageLogoSalesforce.png" alt="ClaimVantage Logo" width="300"/>
 
 # Welcome!
 
