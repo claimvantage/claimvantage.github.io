@@ -1,6 +1,6 @@
-# Welcome to ClaimVantage Open Source
+# Welcome!
 
-The repositories are:
+The open source repositories are:
 
 | Repository | Description |
 | :--- | :--- |
