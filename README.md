@@ -2,7 +2,8 @@
 
 # Welcome
 
-Our open source repositories are:
+At ClaimVantage we build native Salesforce apps, and in doing that work we have created some non-proprietary code
+that we are happy to share. Those open source repositories are:
 
 * [force-metadata-jdbc-driver](https://claimvantage.github.io/force-metadata-jdbc-driver/) - Full and detailed Salesforce database schema export via SchemaSpy
 * [sfdx-jenkins-shared-library](https://claimvantage.github.io/sfdx-jenkins-shared-library/) - Simplifies Jenkins Pipeline builds that use SFDX and scratch orgs
