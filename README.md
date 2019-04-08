@@ -7,6 +7,7 @@ that we are happy to share. Those open source repositories are:
 
 * [force-metadata-jdbc-driver](https://claimvantage.github.io/force-metadata-jdbc-driver/) - Full and detailed Salesforce database schema export via SchemaSpy
 * [sfdx-jenkins-shared-library](https://claimvantage.github.io/sfdx-jenkins-shared-library/) - Simplifies Jenkins Pipeline builds that use SFDX and scratch orgs
+* [relationship-model-generator](https://claimvantage.github.io/relationship-model-generator/) - Apex code generation tool that outputs SObject wrapper classes that maintain parent/child relationships
 
 Content published under the [MIT License](LICENSE).
 
