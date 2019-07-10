@@ -13,4 +13,4 @@ that we are happy to share. Those open source repositories are:
 Content published under the [MIT License](LICENSE).
 
 # About ClaimVantage
-[ClaimVantage](https://claimvantage.com/) offers industry-leading Life, Health, and Absence claim management software solutions for insurance carriers, Third-Party-Administrators (TPAs), and employers. ClaimVantage provides cloud-based, automated claims processing solutions that drive efficiency, accuracy, and productivity, helping their customers to deliver superior customer service for a competitive edge in a crowded marketplace.
+[ClaimVantage](https://claimvantage.com/) offers industry-leading life, health, and absence claim management software solutions for insurance carriers, Third-Party-Administrators (TPAs), and employers. ClaimVantage provides cloud-based, automated claims processing solutions that drive efficiency, accuracy, and productivity, helping their customers to deliver superior customer service for a competitive edge.
